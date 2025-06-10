@@ -50,9 +50,4 @@ per ogni stato attuale dell'auto (vettore di feature), il sistema seleziona l'az
 - **Condizioni**: guida completamente autonoma basata solo sui dati di input dei sensori e lo storico raccolto.
 - **Obiettivo**: completare il tracciato minimizzando gli errori e mantenendo una guida stabile e fluida.
 
-## ▶️ Come Eseguire
 
-1. Avviare TORCS in modalità client server.
-2. Compilare i file Java:
-   ```bash
-   javac *.java
